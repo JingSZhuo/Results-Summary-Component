@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'HankenGrotesk';
+    src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'HankenGroteskBold';
+    src: url('./assets/fonts/static/HankenGrotesk-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'HankenGroteskMedium';
+    src: url('./assets/fonts/static/HankenGrotesk-Medium.ttf');
+}
